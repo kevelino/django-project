@@ -3626,4 +3626,8 @@ form#form input:focus{
   border: 1px solid orange;
   transition: all ease-in 0.3s;
 }
+
+form#form button:hover{
+  cursor: pointer;
+}
 /* CA FINI ICI */
